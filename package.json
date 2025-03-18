@@ -1,0 +1,22 @@
+{
+  "name": "backend-repo-js",
+  "version": "1.0.0",
+  "description": "repository dedicated to Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvan90/Backend-Repo-Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvan90/Backend-Repo-Js/issues"
+  },
+  "homepage": "https://github.com/cvan90/Backend-Repo-Js#readme",
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
+}
